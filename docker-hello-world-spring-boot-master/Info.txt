@@ -1,0 +1,3 @@
+Working in local docker
+
+Can be used for deploying to AWS.
